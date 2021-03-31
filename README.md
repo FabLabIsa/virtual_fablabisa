@@ -6,3 +6,4 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 
 https://play.workadventu.re/_/global/fablabisa.github.io/virtual_fablabisa/map.json 
 https://play.workadventu.re/_/global/fablabisa.github.io/virtual_fablabisa/fablabisa11.json
+https://play.workadventu.re/_/global/fablabisa.github.io/virtual_fablabisa/fablabisa22.json
